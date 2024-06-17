@@ -1,0 +1,1 @@
+GRANT ALL PRIVILEGES on api_db.* TO api_db_user@localhost IDENTIFIED BY 'nihad1213';
